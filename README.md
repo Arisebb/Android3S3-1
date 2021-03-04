@@ -1,10 +1,9 @@
-# Scan For Devices Near Me
+# Scan For Devices Around
 
-## This app has the following functionality:
+## Functionalities:
 
-* Automatically searches for devices already paired to the current device.
-* Automatically searches for unpaired devices to connect with.
-* Allows a user to connect with unpaired devices.
-* Allows a user to print documents using a connected device.
+* Searches for devices already paired to the device.
+* Searches for unpaired devices to connect with.
+* Allows user to connect with unpaired devices.
 
 # Android3S3-1
